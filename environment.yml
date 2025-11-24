@@ -1,0 +1,14 @@
+name: titanic-env
+channels:
+  - defaults
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - python=3.11
+  - jupyter
+  - matplotlib
+  - numpy
+  - pandas
+  - scikit-learn
+  - seaborn
+prefix: /home/prof-adept/anaconda3/envs/titanic-env
