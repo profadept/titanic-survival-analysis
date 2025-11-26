@@ -11,4 +11,7 @@ dependencies:
   - pandas
   - scikit-learn
   - seaborn
+  - plotly
+  - missingno
+  - pyarrow
 prefix: /home/prof-adept/anaconda3/envs/titanic-env
