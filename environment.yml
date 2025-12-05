@@ -14,4 +14,5 @@ dependencies:
   - plotly
   - missingno
   - pyarrow
+  - streamlit
 prefix: /home/prof-adept/anaconda3/envs/titanic-env
